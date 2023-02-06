@@ -1,0 +1,53 @@
+a {
+    color: #ADD8E6;
+    text-decoration: none;
+}
+
+body {
+    background-color: #393E46;
+    text-align: center;
+    text-shadow: 5px 0 #232931;
+}
+
+button {
+    margin-top: 4%;
+    padding: 8px;
+}
+
+footer {
+    color: #EEEEEE;
+    font-family: 'Lobster Two', cursive;
+    font-size: 1.25rem;
+    margin-top: 8%;
+}
+
+.title, h2 {
+    color: #4ECCA3;
+    font-family: 'Libre Baskerville', cursive;
+    font-size: 2rem;
+    margin: 5%;
+}
+
+h2 {
+    font-size: 1.5rem;
+}
+
+p {
+    color: #4ECCA3;
+    font-family: 'Lobster Two', cursive;
+    font-size: 2rem;
+}
+
+.container {
+    margin: auto;
+    width: 70%;
+}
+
+.dice {
+    display: inline-block;
+    margin: 2% 2% 2% 2%;
+}
+
+.input {
+    margin: 0 0 8%;
+}
